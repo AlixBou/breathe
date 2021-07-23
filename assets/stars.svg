@@ -1,0 +1,67 @@
+<svg width="375" height="254" viewBox="0 0 375 254" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<ellipse cx="151" cy="61.5" rx="2" ry="2.5" fill="white" fill-opacity="0.1"/>
+<circle cx="120.5" cy="107.5" r="2.5" fill="white"/>
+<circle cx="39.5" cy="171.5" r="2.5" fill="white"/>
+<circle cx="202" cy="36" r="2" fill="white"/>
+<circle cx="202" cy="36" r="2.5" stroke="white" stroke-opacity="0.1"/>
+<circle cx="323.5" cy="115.5" r="2.5" fill="white"/>
+<circle cx="323.5" cy="115.5" r="3" stroke="white" stroke-opacity="0.1"/>
+<circle cx="2.5" cy="23.5" r="2.5" fill="white"/>
+<ellipse cx="258" cy="179.5" rx="2" ry="2.5" fill="white"/>
+<ellipse cx="296.5" cy="28" rx="2.5" ry="2" fill="white"/>
+<ellipse cx="98.5" cy="202" rx="2.5" ry="2" fill="white"/>
+<circle cx="363.5" cy="104.5" r="2.5" fill="white"/>
+<ellipse cx="258" cy="96.5" rx="2" ry="2.5" fill="white"/>
+<ellipse cx="64.5" cy="143" rx="2.5" ry="2" fill="white"/>
+<ellipse cx="325" cy="173.5" rx="2" ry="2.5" fill="white"/>
+<circle cx="213.5" cy="85.5" r="2.5" fill="white"/>
+<circle cx="274.5" cy="62.5" r="1.5" fill="white"/>
+<circle cx="327.5" cy="28.5" r="1.5" fill="white"/>
+<circle cx="92.5" cy="68.5" r="1.5" fill="white"/>
+<ellipse cx="246" cy="30.5" rx="2" ry="1.5" fill="white"/>
+<circle cx="209.5" cy="17.5" r="1.5" fill="white"/>
+<circle cx="209.5" cy="17.5" r="2" stroke="white" stroke-opacity="0.1"/>
+<circle cx="35.5" cy="228.5" r="1.5" fill="white"/>
+<circle cx="35.5" cy="228.5" r="2" stroke="white" stroke-opacity="0.1"/>
+<circle cx="193.5" cy="113.5" r="1.5" fill="white"/>
+<circle cx="365.5" cy="3.5" r="1.5" fill="white"/>
+<circle cx="104.5" cy="45.5" r="0.5" fill="white"/>
+<ellipse cx="229" cy="112.5" rx="1" ry="0.5" fill="white"/>
+<ellipse cx="192.5" cy="49" rx="0.5" ry="1" fill="white"/>
+<ellipse cx="314" cy="128.5" rx="1" ry="0.5" fill="white"/>
+<circle cx="140" cy="103" r="1" fill="white"/>
+<ellipse cx="31" cy="125.5" rx="1" ry="0.5" fill="white"/>
+<circle cx="140" cy="146" r="1" fill="white"/>
+<circle cx="208.5" cy="176.5" r="0.5" fill="white"/>
+<ellipse cx="141.5" cy="156" rx="0.5" ry="1" fill="white"/>
+<circle cx="90" cy="178" r="1" fill="white"/>
+<ellipse cx="132" cy="18.5" rx="1" ry="0.5" fill="white"/>
+<circle cx="253" cy="98" r="1" fill="white"/>
+<ellipse cx="15" cy="2.5" rx="1" ry="0.5" fill="white"/>
+<circle cx="346" cy="215" r="1" fill="white"/>
+<ellipse cx="230" cy="218.5" rx="2" ry="1.5" fill="white"/>
+<path d="M230 220.5C230.65 220.5 231.258 220.303 231.714 219.961C232.171 219.618 232.5 219.107 232.5 218.5C232.5 217.893 232.171 217.382 231.714 217.039C231.258 216.697 230.65 216.5 230 216.5C229.35 216.5 228.742 216.697 228.286 217.039C227.829 217.382 227.5 217.893 227.5 218.5C227.5 219.107 227.829 219.618 228.286 219.961C228.742 220.303 229.35 220.5 230 220.5Z" stroke="white" stroke-opacity="0.1"/>
+<circle cx="167.5" cy="193.5" r="1.5" fill="white"/>
+<circle cx="252.5" cy="14.5" r="1.5" fill="white"/>
+<ellipse cx="172.5" cy="40" rx="1.5" ry="2" fill="white"/>
+<circle cx="293.5" cy="119.5" r="1.5" fill="white"/>
+<circle cx="156.5" cy="4.5" r="1.5" fill="white"/>
+<circle cx="6.5" cy="127.5" r="1.5" fill="white"/>
+<circle cx="25.5" cy="143.5" r="1.5" fill="white"/>
+<circle cx="6.5" cy="79.5" r="1.5" fill="white"/>
+<circle cx="36.5" cy="79.5" r="1.5" fill="white"/>
+<circle cx="306.5" cy="89.5" r="1.5" fill="white"/>
+<circle cx="102.5" cy="100.5" r="1.5" fill="white"/>
+<circle cx="52.5" cy="1.5" r="1.5" fill="white"/>
+<ellipse cx="325" cy="48.5" rx="2" ry="2.5" fill="white"/>
+<path d="M325 51.5C326.479 51.5 327.5 50.047 327.5 48.5C327.5 46.953 326.479 45.5 325 45.5C323.521 45.5 322.5 46.953 322.5 48.5C322.5 50.047 323.521 51.5 325 51.5Z" stroke="white" stroke-opacity="0.1"/>
+<ellipse cx="36" cy="29.5" rx="2" ry="2.5" fill="white"/>
+<circle cx="192.5" cy="152.5" r="2.5" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="375" height="254" fill="white"/>
+</clipPath>
+</defs>
+</svg>
